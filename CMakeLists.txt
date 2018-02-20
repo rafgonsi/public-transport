@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.6)
+project(ruchdrogowy)
+
+set(CMAKE_CXX_STANDARD 14)
+
+set(SOURCE_FILES main.cpp Czas.cpp Czas.h Osoba.cpp Osoba.h Przystanek.cpp Przystanek.h PlanDnia.cpp PlanDnia.h JazdaBezPrzesiadek.cpp JazdaBezPrzesiadek.h Miasto.cpp Miasto.h Tramwaj.cpp Tramwaj.h Pojazd.cpp Pojazd.h Budynek.cpp Budynek.h Symulacja.cpp Symulacja.h Teatr.cpp Teatr.h Uniwersytet.cpp Uniwersytet.h CentrumHandlowe.cpp CentrumHandlowe.h Uczen.cpp Uczen.h Zdarzenie.cpp Zdarzenie.h PorownywanieZdarzen.cpp PorownywanieZdarzen.h ZdarzeniePojazdOdwiedzaPrzystanek.cpp ZdarzeniePojazdOdwiedzaPrzystanek.h ZdarzenieOsobaIdzieDoRoboty.cpp ZdarzenieOsobaIdzieDoRoboty.h ZdarzeniePowrotDoDomu.cpp ZdarzeniePowrotDoDomu.h)
+add_executable(ruchdrogowy ${SOURCE_FILES} Czas.cpp Czas.h Osoba.cpp Osoba.h Przystanek.cpp Przystanek.h PlanDnia.cpp PlanDnia.h JazdaBezPrzesiadek.cpp JazdaBezPrzesiadek.h Miasto.cpp Miasto.h Tramwaj.cpp Tramwaj.h Pojazd.cpp Pojazd.h Budynek.cpp Budynek.h Symulacja.cpp Symulacja.h Teatr.cpp Teatr.h Uniwersytet.cpp Uniwersytet.h CentrumHandlowe.cpp CentrumHandlowe.h Uczen.cpp Uczen.h Zdarzenie.cpp Zdarzenie.h PorownywanieZdarzen.cpp PorownywanieZdarzen.h ZdarzeniePojazdOdwiedzaPrzystanek.cpp ZdarzeniePojazdOdwiedzaPrzystanek.h ZdarzenieOsobaIdzieDoRoboty.cpp ZdarzenieOsobaIdzieDoRoboty.h ZdarzeniePowrotDoDomu.cpp ZdarzeniePowrotDoDomu.h)
