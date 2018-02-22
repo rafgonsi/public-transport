@@ -11,3 +11,5 @@ The project is unfinished, but still the following functionalities work:
 - trams travelling on their lines according to their time tables. They allow people to get from one place to the other
 - people are able to decide which tram they should take to get to their destination place (works only if no tram change is needed)
 - the simulation prints every event that happens
+
+Exemplary input file: plik.txt
