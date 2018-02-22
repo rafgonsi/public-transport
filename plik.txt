@@ -1,0 +1,20 @@
+30
+0 0 0 30
+0
+0
+0
+30
+0 0 0 0
+10
+5
+Ochota
+Praga
+Centrum
+Wola
+Mokotow
+2
+15 Ochota 15 Wola 21 Centrum 17 Mokotow 31 Praga 2
+10 Wola 13 Mokotow 17 Ochota 7
+0
+0
+0
